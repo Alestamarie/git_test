@@ -1,0 +1,1 @@
+This is Alestamarie's first Git project!
